@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8c7b0858722fab844802d94c7903019b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DiscoBall: {fileID: 1427139131753026, guid: a81de062dc493bb4988dfee57f2a9832,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
